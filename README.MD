@@ -1,42 +1,39 @@
 SellNest
 
-Deskripsi
+🏡 Deskripsi
 
-SellNest adalah aplikasi berbasis VB.NET yang dirancang untuk mempermudah proses manajemen penjualan rumah. Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk data rumah, autentikasi login dengan peran pengguna (Admin dan User Biasa), serta sistem navigasi yang intuitif.
+SellNest adalah aplikasi berbasis VB.NET yang dirancang untuk mempermudah proses manajemen penjualan rumah. Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk data rumah, autentikasi login dengan peran pengguna (Admin & User Biasa), serta sistem navigasi yang intuitif.
 
-Fitur Utama
+✨ Fitur Utama
 
-Login & Role Management
+✅ Login & Role Management
 
 Admin dapat mengelola semua data.
 
 User biasa hanya dapat melihat data tanpa mengedit atau menghapus.
-
-Manajemen Data Rumah
+✅ Manajemen Data Rumah
 
 Tambah, edit, hapus, dan cari data rumah.
 
 Rumah yang sudah terjual tidak dapat dihapus.
-
-Form Transaksi Penjualan
+✅ Form Transaksi Penjualan
 
 Mencatat transaksi penjualan rumah dengan validasi status penjualan.
-
-Navigasi Menu
+✅ Navigasi Menu
 
 Menu navigasi untuk berpindah antarform dengan mudah.
-
-Tampilan Modern
+✅ Tampilan Modern
 
 Background gambar, layout rapi, serta tabel data yang mudah dibaca.
-
-Upload Gambar
+✅ Upload Gambar
 
 Fitur unggah gambar rumah untuk melengkapi informasi properti.
 
-Teknologi yang Digunakan
+🛠 Teknologi yang Digunakan
 
 Bahasa Pemrograman: VB.NET
+
+
 
 Database: MySQL (diakses melalui ODBC)
 
@@ -44,7 +41,7 @@ Framework: .NET Framework
 
 Version Control: Git & GitHub
 
-Cara Instalasi
+📥 Cara Instalasi
 
 Clone repository ini ke komputer Anda:
 
@@ -56,15 +53,14 @@ Import database yang telah disediakan ke MySQL.
 
 Buka proyek di Visual Studio dan sesuaikan koneksi database.
 
-Jalankan aplikasi dan login menggunakan akun admin/user yang tersedia.
+Jalankan aplikasi dan login menggunakan akun Admin/User yang tersedia.
 
-Kontributor
+👥 Kontributor
 
 Nama Anda - Pengembang Utama
 
 Kontributor Lainnya (Jika ada)
 
-Lisensi
+📜 Lisensi
 
 Aplikasi ini dikembangkan untuk keperluan akademik dan tidak untuk tujuan komersial.
-
