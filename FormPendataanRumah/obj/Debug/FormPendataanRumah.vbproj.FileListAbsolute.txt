@@ -1,0 +1,14 @@
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\bin\Debug\FormPendataanRumah.exe.config
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.Form1.resources
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.Form2.resources
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.Resources.resources
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.vbproj.GenerateResource.Cache
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\bin\Debug\FormPendataanRumah.exe
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\bin\Debug\FormPendataanRumah.pdb
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\bin\Debug\FormPendataanRumah.xml
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.exe
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.xml
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.pdb
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.FormTransaksi.resources
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.vbprojResolveAssemblyReference.cache
+G:\My Drive\UNSIA\Pemrograman Visual\VBasic\FormPendataanRumah\FormPendataanRumah\obj\Debug\FormPendataanRumah.about.resources
