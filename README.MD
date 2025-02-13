@@ -31,7 +31,7 @@ SellNest adalah aplikasi berbasis VB.NET yang dirancang untuk mempermudah proses
 
 ### 📥 Cara Instalasi
 Clone repository ini ke komputer Anda:
-- git clone https://github.com/ahlandapu/SellNestApp.git
+> git clone https://github.com/ahlandapu/SellNestApp.git
 - Pastikan Anda sudah menginstal ODBC Driver untuk MySQL.
 - Import database yang telah disediakan ke MySQL.
 - Buka proyek di Visual Studio dan sesuaikan koneksi database.
